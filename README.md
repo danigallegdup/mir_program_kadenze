@@ -109,3 +109,6 @@ covered in the Kadenze Inc. Music Information Retrieval Program:
         └── kadenze_mir_c3_s5_2_landmarks.ipynb
 
 
+## Resources
+
+[musicinformationretrieval](https://musicinformationretrieval.com/)
